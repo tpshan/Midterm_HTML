@@ -10,9 +10,17 @@ body {
     margin: 0 auto;
 }
 
-h2 {
+h2, h3 {
     margin: 0;
     padding: 0;
+}
+
+h3, .font32 {
+    font-size: 32px;
+}
+
+.font28 {
+    font-size: 28px;
 }
 
 ul {
@@ -77,60 +85,13 @@ header .title ul li {
     background: rgba(255,255,255,0.5);
 }
 
-.main li {
-    margin-top: 35px;
-}
-
 .firstItem {
     padding-top: 10px;
 }
 
-.main_circle {
-    width: 20px;
-    height: 20px;
+.circle {
     border-radius: 50%;
     background: #000;
-    margin-left: -36px;
-    margin-right: 10px;
-    margin-top: 8px;
-    float: left;
-}
-
-.main_label {
-    font-size: 32px;
-    float: left;
-}
-
-.main_detail {
-    font-size: 28px;
-}
-
-.schoolMap {
-    text-align: center;
-}
-
-.googleMap {
-    border: 2px solid #5A4D4C;
-    margin-bottom: 35px;
-}
-
-
-.sub li{
-    font-size: 28px;
-    margin: 5px 0;
-    padding: 0;
-}
-
-.sub_triangle {
-    width: 0;
-    height: 0;
-    border-left: 8px solid transparent;
-    border-right: 8px solid transparent;
-    border-bottom: 16px solid #000;
-
-    margin-left: 40px;
-    margin-right: 10px;
-    margin-top: 10px;
     float: left;
 }
 
@@ -140,10 +101,6 @@ header .title ul li {
 
 .rightFloat {
     float: right;
-}
-
-.storeLink {
-    margin-left: 62px;
 }
 
 footer {
