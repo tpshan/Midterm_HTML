@@ -1,0 +1,17 @@
+#alignPic {
+    width: 960px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.btn {
+    margin-top:-30px;
+    padding: 0 10px;
+    border: 1px solid #5a4d4c;
+    font-size: 20px;
+    height: 30px;
+    box-sizing: border-box;
+    margin-bottom: 45px;
+}
+
