@@ -1,0 +1,34 @@
+.question{
+    width: 100%;
+    height: 55px;
+    background: #edf2f6;
+    padding: 10px;
+    box-sizing: border-box;
+    /*color:#328daa;*/
+}
+
+.openOrClose {
+    width:35px;
+    height: 35px;
+}
+
+.answer {
+    margin-top: 15px;
+    width: 100%;
+    font-size: 24px;
+    background: #edf2f6;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.answer p {
+    margin-left: 2em;
+}
+
+.ansItem {
+    color: red;
+}
+
+.fqa_main li{
+    margin-bottom: 40px;
+}

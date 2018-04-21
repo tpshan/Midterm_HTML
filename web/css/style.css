@@ -131,6 +131,10 @@ footer img {
     vertical-align: 25%;
 }
 
+.hide {
+    display: none;
+}
+
 .clear {
     clear: both;
 }
