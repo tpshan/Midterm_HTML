@@ -1,5 +1,5 @@
 body {
-    background: #e4ebf2;
+    background: #fff;
     margin: 0;
     padding: 0;
 }
@@ -73,7 +73,7 @@ header .title ul li {
 }
 .main {
     padding: 0 102px;
-    background: rgba(255,255,255,0.33);
+    background: #edf2f6;
 }
 
 .main li {
