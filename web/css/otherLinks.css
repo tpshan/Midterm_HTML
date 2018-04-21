@@ -1,0 +1,39 @@
+.main li {
+    margin-top: 35px;
+}
+
+.main_circle {
+    width: 20px;
+    height: 20px;
+    margin-left: -36px;
+    margin-right: 10px;
+    margin-top: 8px;
+}
+
+.googleMap {
+    border: 2px solid #5A4D4C;
+    margin-bottom: 35px;
+}
+
+
+.sub li{
+    font-size: 28px;
+    margin: 5px 0;
+    padding: 0;
+}
+
+.sub_triangle {
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 16px solid #000;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.storeLink {
+    margin-left: 62px;
+}
