@@ -1,0 +1,168 @@
+body {
+    background: #e4ebf2;
+    margin: 0;
+    padding: 0;
+}
+
+.basicWidth {
+    width: 1187px;
+    margin: 0 auto;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 45px;
+    padding: 30px 0;
+    background: #8ed3f4;
+    box-sizing: border-box;
+}
+
+header .logo img {
+    margin-left: 20px;
+    width: 180px;
+    height: 92px;
+    float: left;
+}
+
+header .title {
+    float: right;
+    width: 950px;
+}
+
+header .title h2 {
+    font-size: 32px;
+    margin-bottom: 25px;
+}
+
+header .title ul {
+    margin-left: -25px;
+    list-style: none;
+}
+
+header .title ul li {
+    font-size: 24px;
+    float: left;
+    margin-left: 25px;
+}
+
+.subTitle {
+    font-size: 40px;
+    padding-left: 256px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #fff;
+    background: #328daa;
+    margin-bottom: 30px;
+}
+.main {
+    padding: 0 102px;
+    background: rgba(255,255,255,0.33);
+}
+
+.main li {
+    margin-top: 35px;
+}
+
+.firstItem {
+    padding-top: 10px;
+}
+
+.main_circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #000;
+    margin-left: -36px;
+    margin-right: 10px;
+    margin-top: 8px;
+    float: left;
+}
+
+.main_label {
+    font-size: 32px;
+    float: left;
+}
+
+.main_detail {
+    font-size: 28px;
+}
+
+.googleMap {
+    border: 2px solid #000;
+    margin-bottom: 35px;
+}
+
+
+.sub li{
+    font-size: 28px;
+}
+
+.sub_triangle {
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 16px solid #000;
+
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.leftFloat {
+    float: left;
+}
+
+.rightFloat {
+    float: right;
+}
+
+.storeLink {
+    /*text-align: center;*/
+    margin-left: 62px;
+}
+
+footer {
+    width: 100%;
+    background: #8a8683;
+    margin-top: 45px;
+    padding: 30px 0;
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+}
+
+footer img {
+    width: 32px;
+    height: 32px;
+}
+
+.footer_downText {
+    margin-top: 17px;
+}
+
+.footer_fbtext {
+    vertical-align: 25%;
+}
+
+.clear {
+    clear: both;
+}
