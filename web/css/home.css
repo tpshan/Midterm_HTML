@@ -4,6 +4,28 @@
     padding: 0;
 }
 
+.dots {
+    background: rgba(0,0,0,0.33);
+    width: 60px;
+    height: 20px;
+    border-radius: 10%;
+    margin-left: 440px;
+    padding: 0 5px;
+    position: relative;
+    top: -30px;
+   
+}
+
+.dots li {
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    margin: 5px;
+}
+
+#dot1 {
+    background: #acdef5;
+}
 
 .btn {
     margin-top:-30px;
@@ -14,4 +36,3 @@
     box-sizing: border-box;
     margin-bottom: 45px;
 }
-

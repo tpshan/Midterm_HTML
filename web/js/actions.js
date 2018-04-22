@@ -1,5 +1,4 @@
- 
-$(document).ready(function(){
+ $(document).ready(function(){
     $('.openOrClose').click(function() {
         var qn = $($(this)).attr('id');
 
