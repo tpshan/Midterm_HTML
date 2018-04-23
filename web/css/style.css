@@ -5,7 +5,14 @@ body {
     color: #5A4D4C;
     font-family: "Microsoft JhengHei";
 }
-
+.plus_music {
+    display: flex;
+    float: left;
+}
+.music{
+    padding-left: 180px;
+    padding-bottom: 0;
+}
 .basicWidth {
     width: 1187px;
     margin: 0 auto;
