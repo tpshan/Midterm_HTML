@@ -1,23 +1,13 @@
-.plan_main .plan_oddItems{
+.plan_main li{
     width: 100%;
     height: 550px;
-    background: #deeaf6;
     padding: 20px 0;
     box-sizing: border-box;
     margin-bottom: 25px;
     border-style: outset;
     border-width: 2px;
 }
-.plan_main .plan_evenItems{
-    width: 100%;
-    height: 550px;
-    background: #9dcae1;
-    padding: 20px 0;
-    box-sizing: border-box;
-    margin-bottom: 25px;
-    border-style: outset;
-    border-width: 2px;
-}
+
 .plan_main li p {
     font-size: 24px;
     width: 925px;

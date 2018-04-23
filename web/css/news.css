@@ -1,20 +1,7 @@
-
 .news_main li {
     padding: 10px 16px;
     margin-bottom: 30px;
-}
-
-.news_main .oddItems {
     width: 100%;
-    background: #deeaf6;
-    box-sizing: border-box;
-    border-style: outset;
-    border-width: 2px;
-}
-
-.news_main .evenItems {
-    width: 100%;
-    background: #9dcae1;
     box-sizing: border-box;
     border-style: outset;
     border-width: 2px;
@@ -34,4 +21,8 @@
     padding-left: 10px;
 	color: #5A4D4C;
 	font-weight: 550;
+}
+
+.download_main img {
+    height: 32px;
 }

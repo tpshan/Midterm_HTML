@@ -150,6 +150,14 @@ footer img {
     vertical-align: 25%;
 }
 
+.light {
+    background: #deeaf6;
+}
+
+.deep {
+    background: #9dcae1;
+}
+
 .hide {
     display: none;
 }

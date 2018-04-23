@@ -2,36 +2,52 @@
 	font-size: 24px;
 	font-weight: 550;
 }
-.fifth h3{
-	
-	padding-left: 270px;
 
+.subTitle {
+	margin-bottom: 20px;
 }
-.sixth{
-	box-sizing: border-box;
-}
-.logo {
 
+.introduction_main {
+	padding: 20px 75px;
+	background: #deeaf6;
+	border-style: outset;
+    border-width: 2px;
 }
-.rule a {
+
+.introduction_pic h3 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.picBox {
+	height: 560px;
+	background: #9dcae1;
+}
+
+.ruleLink {
 	text-decoration: none;
     color: #5A4D4C;
     font-size: 24px;
 	font-weight: 550;
 	border-style: dashed;
-    border-width: 2px;
+	border-width: 2px;
+	text-align: center;
 }
-.rule a:hover {
+
+.ruleLink:hover {
 	border-style: solid;
     border-width: 2px;
     background-color: #5A4D4C;
     color: #f7faff;
 }
-.rule_left p{
-	padding-top: 20px;
-	line-height: 35px;
+
+.rule{
+	margin-top: 30px;
+	height: 250px;
+	padding-left: 230px;
+	padding-right: 100px;
 }
-.rule_right p{
-	padding-top: 20px;
-	line-height: 35px;
+
+.rule ul {
+	line-height: 50px;
 }
