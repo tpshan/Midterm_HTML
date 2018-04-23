@@ -1,3 +1,37 @@
-.subTitle p{
+.basicWidth p{
+	font-size: 24px;
+	font-weight: 550;
+}
+.fifth h3{
 	
+	padding-left: 270px;
+
+}
+.sixth{
+	box-sizing: border-box;
+}
+.logo {
+
+}
+.rule a {
+	text-decoration: none;
+    color: #5A4D4C;
+    font-size: 24px;
+	font-weight: 550;
+	border-style: dashed;
+    border-width: 2px;
+}
+.rule a:hover {
+	border-style: solid;
+    border-width: 2px;
+    background-color: #5A4D4C;
+    color: #f7faff;
+}
+.rule_left p{
+	padding-top: 20px;
+	line-height: 35px;
+}
+.rule_right p{
+	padding-top: 20px;
+	line-height: 35px;
 }

@@ -1,19 +1,18 @@
 .main {
     padding-bottom: 10px;
     height: 750px;
-        background: #deeaf6;
-            border-style: outset;
+    background: #deeaf6;
+    border-style: outset;
     border-width: 2px;
 }
 .main img {
-        border-style: outset;
-
+    border-style: outset;
     border-width: 2px;
 }
 .main li {
     margin-bottom: 35px;
     padding: 10px;
-        font-weight: 550;
+    font-weight: 550;
 }
 .main a {
     text-decoration: none;
