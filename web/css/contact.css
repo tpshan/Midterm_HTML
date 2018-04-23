@@ -15,6 +15,10 @@
     font-weight: 550;
 }
 .main a {
+    text-decoration: underline;
+    color: #5A4D4C;
+}
+.main a:hover {
     text-decoration: none;
     color: #5A4D4C;
 }

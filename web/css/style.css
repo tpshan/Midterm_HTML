@@ -77,12 +77,12 @@ header .title ul li {
 }
 header .title ul li a {
     text-decoration: none;
-    color: #072b60;
+    color: #05285a;
 }
 header .title ul li a:hover {
     border-style: dashed;
     border-width: 2px;
-    color: #072b60;
+    color: #05285a;
 }
 .subTitle {
     font-size: 40px;

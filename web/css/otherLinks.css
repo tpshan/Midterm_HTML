@@ -9,7 +9,14 @@
     margin-right: 10px;
     margin-top: 8px;
 }
-
+.main a {
+    text-decoration: underline;
+    color: #5A4D4C;
+}
+.main a:hover {
+    text-decoration: none;
+    color: #5A4D4C;
+}
 .googleMap {
     border: 2px solid #5A4D4C;
     margin-bottom: 35px;
