@@ -1,0 +1,23 @@
+.people_main {
+    width: 100%;
+    height: 250px;
+    padding: 10px 100px;
+    box-sizing: border-box;
+    border-style: outset;
+    border-width: 2px;
+    margin-bottom: 30px;
+}
+
+.people_main h3 {
+    margin: 20px 0;
+}
+
+.people_main .rightFloat {
+    width: 600px;
+}
+
+#teacher {
+    height: 320px;
+    background: #000;
+    color: #fff;
+}
