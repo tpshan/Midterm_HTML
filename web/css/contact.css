@@ -1,13 +1,24 @@
 .main {
     padding-bottom: 10px;
-    height: 350px;
+    height: 750px;
+        background: #deeaf6;
+            border-style: outset;
+    border-width: 2px;
 }
+.main img {
+        border-style: outset;
 
+    border-width: 2px;
+}
 .main li {
     margin-bottom: 35px;
     padding: 10px;
+        font-weight: 550;
 }
-
+.main a {
+    text-decoration: none;
+    color: #5A4D4C;
+}
 .main_circle {
     width: 20px;
     height: 20px;

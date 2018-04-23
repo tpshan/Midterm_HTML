@@ -103,6 +103,7 @@ header .title ul li a:hover {
 
 .firstItem {
     padding-top: 10px;
+    margin-top: 10px;
 }
 
 .circle {
@@ -132,11 +133,13 @@ footer {
     font-size: 24px;
     text-align: center;
     color: #fff;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
 }
 
 footer img {
     width: 32px;
     height: 32px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.3);
 }
 
 .footer_downText {
