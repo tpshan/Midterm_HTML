@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
 }
 .logo img {
-    box-shadow: 0px 0px 2px rgba(255,255,255,0.7);
+    box-shadow: 0px 0px 2px rgba(0,0,0,0.7);
 }
 h2, h3 {
     margin: 0;
@@ -64,7 +64,7 @@ header .title h2 {
     margin-bottom: 20px;
     font-weight: 550;
     color: #fff;
-    text-shadow: 0px 0px 2px rgba(255,255,255,0.7);
+    text-shadow: 0px 0px 4px rgba(255,255,255,0.7);
 }
 
 header .title ul {
@@ -77,6 +77,7 @@ header .title ul li {
     font-weight: 580;
     float: left;
     margin-left: 25px;
+
 }
 header .title ul li a {
     text-decoration: none;
