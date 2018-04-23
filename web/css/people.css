@@ -18,7 +18,8 @@
     border-color: #8a8683;
 }
 .people_main h3 {
-    margin: 30px 0 20px 0;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .people_main .rightFloat {
@@ -29,4 +30,8 @@
     height: 320px;
     background: #c9f7ef;
     color: #5A4D4C;
+}
+
+.clear .rightFloat{
+    margin-right: 40px;
 }
