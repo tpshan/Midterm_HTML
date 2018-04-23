@@ -1,5 +1,5 @@
 body {
-    background: #e4ebf2;
+    background: #f7faff;
     margin: 0;
     padding: 0;
     color: #5A4D4C;
@@ -17,7 +17,7 @@ h2, h3 {
 }
 
 h3, .font32 {
-    font-size: 32px;
+    font-size: 28px;
 }
 
 .font28 {
@@ -40,7 +40,7 @@ header {
     height: 150px;
     margin-bottom: 45px;
     padding: 30px 0;
-    background: #acdef5;
+    background: #6bafd6;
     box-sizing: border-box;
 }
 
@@ -57,8 +57,11 @@ header .title {
 }
 
 header .title h2 {
-    font-size: 32px;
-    margin-bottom: 25px;
+    font-size: 37px;
+    margin-bottom: 20px;
+    font-weight: 550;
+    color: #fff;
+    text-shadow: 0px 0px 3px rgba(255,255,255,0.7);
 }
 
 header .title ul {
@@ -68,19 +71,30 @@ header .title ul {
 
 header .title ul li {
     font-size: 24px;
+    font-weight: 580;
     float: left;
     margin-left: 25px;
 }
-
+header .title ul li a {
+    text-decoration: none;
+    color: #08306b;
+}
+header .title ul li a:hover {
+    border-style: dashed;
+    border-width: 2px;
+    color: #08306b;
+}
 .subTitle {
     font-size: 40px;
     text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
     color: #fff;
-    background: #3baacc;
+    background: #6bafd6;
     margin-top: 45px;
     margin-bottom: 30px;
+    border-style: outset;
+    border-width: 3px;
 }
 .main {
     padding: 0 102px;
@@ -103,6 +117,7 @@ header .title ul li {
 
 .leftFloat {
     float: left;
+
 }
 
 .rightFloat {
