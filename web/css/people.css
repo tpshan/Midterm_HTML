@@ -1,15 +1,20 @@
 .people_main {
     width: 100%;
-    height: 250px;
-    padding: 10px 100px;
+    height: 260px;
+    padding: 10px 10px;
     box-sizing: border-box;
     border-style: outset;
     border-width: 2px;
     margin-bottom: 30px;
+    font-weight: 550;
 }
-
+.peopleWidth img {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #8a8683;
+}
 .people_main h3 {
-    margin: 20px 0;
+    margin: 30px 0 20px 0;
 }
 
 .people_main .rightFloat {

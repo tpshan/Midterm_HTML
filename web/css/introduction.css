@@ -18,7 +18,11 @@
 	text-align: center;
 	margin-bottom: 20px;
 }
-
+.introduction_pic img {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #8a8683;
+}
 .picBox {
 	height: 560px;
 	background: #9dcae1;
