@@ -2,7 +2,12 @@
     margin-top: 35px;
     font-weight: 550;
 }
-
+.main {
+    background: #deeaf6;
+    border-style: outset;
+    border-width: 2px;
+    height: 2500px;
+}
 .main_circle {
     width: 20px;
     height: 20px;
@@ -18,14 +23,13 @@
     text-decoration: none;
     color: #5A4D4C;
 }
-#schoolMap {
-    margin-top: 7px;
+#school_address{
+    margin-bottom: 7px;
 }
 .googleMap {
     border: 2px solid #5A4D4C;
     margin-bottom: 35px;
 }
-
 
 .sub li{
     font-size: 25px;
