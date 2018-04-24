@@ -6,7 +6,7 @@ body {
     font-family: "Microsoft JhengHei";
 }
 .plus_music {
-    display: flex;
+    display: none;
     float: left;
 }
 .music{
