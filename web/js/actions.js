@@ -1,4 +1,16 @@
  $(document).ready(function(){
+    var audio = $("audio")[0];
+    $('#btn_music').click(function() {
+        if($(this).attr('src') === "./image/music_on.png") {
+            audio.pause();
+            $(this).attr('src', "./image/music_off.png");
+        }
+        else {
+            audio.play();
+            $(this).attr('src', "./image/music_on.png");
+        }
+    });
+    
     $('.openOrClose').click(function() {
         var qn = $($(this)).attr('id');
 
