@@ -101,10 +101,6 @@ header .title ul li a:hover {
     border-style: outset;
     border-width: 3px;
 }
-.main {
-    padding: 0 102px;
-    background: rgba(255,255,255,0.5);
-}
 
 .firstItem {
     padding-top: 10px;
@@ -426,4 +422,102 @@ footer img {
 
 .clear .people_main .rightFloat{
     margin-right: 40px;
+}
+
+/*otherLinks*/
+.otherLinks_main {
+    background: #deeaf6;
+    border-style: outset;
+    border-width: 2px;
+    height: 2500px;
+    padding: 0 66px;
+}
+
+.otherLinks_main li {
+    margin-top: 35px;
+    font-weight: 550;
+}
+.otherLinks_circle {
+    width: 20px;
+    height: 20px;
+    margin-left: -36px;
+    margin-right: 10px;
+    margin-top: 8px;
+}
+.otherLinks_main a {
+    text-decoration: underline;
+    color: #5A4D4C;
+}
+.otherLinks_main a:hover {
+    text-decoration: none;
+    color: #5A4D4C;
+}
+#school_address{
+    margin-bottom: 7px;
+}
+.googleMap {
+    border: 2px solid #5A4D4C;
+    margin-bottom: 35px;
+}
+
+.sub li{
+    font-size: 25px;
+    margin: 5px 0;
+    padding: 5px 0;
+    font-weight: 550;
+}
+
+.sub_triangle {
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 16px solid #000;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.storeLink {
+    margin-left: 62px;
+    margin-top: 7px;
+}
+
+/*contact*/
+.contact_main {
+    padding-bottom: 10px;
+    height: 750px;
+    background: #deeaf6;
+    border-style: outset;
+    border-width: 2px;
+    padding: 0 66px;
+}
+.contact_main img {
+    border-style: outset;
+    border-width: 2px;
+}
+.contact_main li {
+    margin-bottom: 35px;
+    padding: 10px;
+    font-weight: 550;
+}
+.contact_main a {
+    text-decoration: underline;
+    color: #5A4D4C;
+}
+.contact_main a:hover {
+    text-decoration: none;
+    color: #5A4D4C;
+}
+.contact_circle {
+    width: 20px;
+    height: 20px;
+    margin-left: -36px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.contact_main .pic {
+    margin: 45px 0;
 }
